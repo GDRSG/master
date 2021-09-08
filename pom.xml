@@ -338,11 +338,11 @@
               </execution>
             </executions>
             <configuration>
-              <apiUrl>${env.CONTRAST__API__URL}</apiUrl>
-              <username>${env.CONTRAST__API__USER_NAME}</username>
-              <apiKey>${env.CONTRAST__API__API_KEY}</apiKey>
-              <serviceKey>${env.CONTRAST__API__SERVICE_KEY}</serviceKey>
-              <orgUuid>${env.CONTRAST__API__ORGANIZATION_ID}</orgUuid>
+              <apiUrl>https://teamserver-staging.contsec.com/Contrast</apiUrl>
+              <username>Ram.Devarajan@contrastsecurity.com</username>
+              <apiKey>tN068mjN8xtZPyIHB5jXPg8rm1hRDxxE</apiKey>
+              <serviceKey>DIWA8SD9KIOWC1T0</serviceKey>
+              <orgUuid>c5f79c46-7c74-45a0-b4c4-565da52827fa</orgUuid>
             </configuration>
           </plugin>
         </plugins>
